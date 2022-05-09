@@ -1,4 +1,4 @@
-# DailyNotes: Daily tasks and notes in Markdown
+# NeoNotes: Daily tasks and notes in Markdown
 
 <p align="center">
   <!-- Font-Awesome book-open -->
